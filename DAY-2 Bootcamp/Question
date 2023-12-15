@@ -1,32 +1,40 @@
-How to Javascript : Assignment 3
-Complete the following assignments.
+How to Javascript: Assignment 2
 
-Assignment 1: Change Background Color
+Complete the following assignments. All the outputs should be printed in the console only
 
-Title: Change Background Color Assignment
+A WhatsApp group will be shared to submit your assignments
 
-Instructions:
-1. Create an HTML document with a title element.
-2. Add a heading (e.g., `<h1>Click anywhere on the page to change the background color!</h1>`) to explain the assignment's purpose.
-3. Write a JavaScript function called `getRandomColor()` that generates a random color.
-4. Write another JavaScript function called `changeBackgroundColor()` that sets the background color of the document's body to the random color obtained from `getRandomColor()`.
-5. Add an onclick event to the entire document that calls the `changeBackgroundColor()` function whenever the user clicks anywhere on the page.
-6. Test the assignment by opening the HTML document in a web browser. Verify that clicking anywhere on the page changes the background color.
+You can implement these functions with or without using the `prompt()` function for input. The input values can be provided directly as function arguments, taken input as prompt or assigned within the script. Happy coding!
 
-Assignment 2: display names
 
-const names = [ "Aarav", "Sanya", "Vikram", "Neha", "Rohan", "Priya", "Amit", "Meera", "Rajiv", "Ananya" ];
 
-You have been provided with an array of 10 Indian names. 
-Your task is to create a simple web page featuring two buttons: "Next" and "Previous". 
-Using these buttons, display the names sequentially, one at a time. 
+Assignment 1:
+Write a JavaScript function that takes a number as a parameter and prints whether it's positive, negative, or zero.
 
-Here's how to proceed: Array of Indian Names: Use the given array containing 10 Indian names to start the assignment. 
+Assignment 2:
+Write a JavaScript function that takes a positive integer as a parameter and calculates its factorial using a for loop. The factorial of a number N is the product of all positive integers less than or equal to N.
 
-Button Setup: Design an HTML page with a space to display the names and include the "Next" and "Previous" buttons for navigation. 
+Assignment 3:
+Write a JavaScript function that takes two numbers as parameters and returns the larger one.
 
-Initial Display: Upon loading the page, show the first name from the array. 
+Assignment 4:
+Write a JavaScript function that takes a string as a parameter and determines whether it's a palindrome or not. A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
 
-Next Button Functionality: When the "Next" button is clicked, display the next name in the array. If you reach the end of the array, wrap around to the beginning. 
+Assignment 5:
+Write a JavaScript function that takes a positive integer as a parameter and prints all the prime numbers less than or equal to that integer. A prime number is a natural number greater than 1 that is not a product of two smaller natural numbers.
 
-Previous Button Functionality: Clicking the "Previous" button should show the previous name in the array. If you're at the beginning, loop back to the end of the array.
+Assignment 6:
+Write a JavaScript function that simulates a simple calculator. The function should take two numbers and an operator (+, -, *, or /) as parameters and perform the corresponding operation.
+
+Assignment 7:
+Write a JavaScript function that takes a string as a parameter and counts the number of vowels (a, e, i, o, u) in the string.
+
+Assignment 8:
+Write a JavaScript function that takes a positive integer as a parameter and checks if it's a perfect number. A perfect number is a positive integer that is equal to the sum of its proper divisors, excluding itself.
+
+Assignment 9:
+Write a JavaScript function that takes a number as a parameter and prints the Fibonacci series up to that number. The Fibonacci series is a sequence of numbers in which each number is the sum of the two preceding ones.
+
+Assignment 10:
+Write a JavaScript function that takes a positive integer as a parameter and prints its multiplication table up to 10.
+
