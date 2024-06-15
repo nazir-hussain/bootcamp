@@ -1,4 +1,4 @@
-/* Assignment 1:
+/* Assignment- 1:
 Write a JavaScript function that takes a number as a parameter and prints whether it's positive, negative, or zero. */
 // solution
 function checkNumber(number) {
